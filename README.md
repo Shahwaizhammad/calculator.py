@@ -1,3 +1,3 @@
-# Digital Calculator
+#Smart Calculator
 
 By Shahwaizhammad. 
